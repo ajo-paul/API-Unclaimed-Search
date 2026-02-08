@@ -1,3 +1,5 @@
+--- Update : use Clou;d flare hosting . no GAS. it is fater and more reliable and close to enterprise model
+ 
  **very real, shippable MVP**. Below is a **step-by-step, end-to-end blueprint** you can follow *now* to launch an **API SaaS MVP** using:
 
 * **Google Apps Script** → API gateway / proxy / management
